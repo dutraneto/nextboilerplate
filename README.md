@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First create a new project, using this boilerplate:
+```bash
+    $ yarn create next-app -e https://github.com/dutraneto/next-boilerplate
+```
+
+Give to your project a name!
+
+Go to your new project folder.
+```bash
+    $ cd yourProjectName
+```
+
 First, run the development server:
 
 ```bash
