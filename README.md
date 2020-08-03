@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First create a new project, using this boilerplate:
 ```bash
-    $ yarn create next-app -e https://github.com/dutraneto/next-boilerplate
+    $ yarn create next-app -e https://github.com/dutraneto/nextboilerplate
 ```
 
 Give to your project a name!
